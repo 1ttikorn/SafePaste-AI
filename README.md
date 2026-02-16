@@ -1,4 +1,4 @@
-# 🛡️ SafePaste AI: Stop Leaking Secrets to AI
+# 🛡️ SafePaste AI - Privacy Shield
 
 <div align="center">
   <a href="https://chromewebstore.google.com/detail/mmgbmmgmiofmnmplfhlojelhceibepjp?utm_source=item-share-cb" target="_blank">
