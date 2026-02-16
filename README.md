@@ -109,6 +109,7 @@ Maximize your productivity with these native shortcuts:
 ## 💬 Support
 
 Found a bug or have a feature request?
+- **Website:** [SafePaste AI - Privacy Shield](https://sites.google.com/view/safepaste-ai/home)
 - **Email:** ittikorn.longtee@gmail.com
 - **Issues:** Feel free to open an issue in this repository.
 
