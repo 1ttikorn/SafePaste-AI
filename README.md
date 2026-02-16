@@ -1,8 +1,8 @@
 # 🛡️ SafePaste AI: Stop Leaking Secrets to AI
 
 <div align="center">
-  <a href="https://chrome.google.com/webstore/detail/safepaste-ai-privacy-sh/jbolfgndggfhhpbnkgnpchjmnfnkgobc" target="_blank">
-    <img src="https://img.shields.io/chrome-web-store/v/jbolfgndggfhhpbnkgnpchjmnfnkgobc?color=blue&label=Chrome%20Web%20Store&logo=google-chrome&style=for-the-badge" alt="Chrome Web Store Version"/>
+  <a href="https://chromewebstore.google.com/detail/mmgbmmgmiofmnmplfhlojelhceibepjp?utm_source=item-share-cb" target="_blank">
+    <img src="https://img.shields.io/chrome-web-store/v/mmgbmmgmiofmnmplfhlojelhceibepjp?color=blue&label=Chrome%20Web%20Store&logo=google-chrome&style=for-the-badge" alt="Chrome Web Store Version"/>
   </a>
   <a href="https://www.nxgntools.com/tools/safepaste-ai-privacy-shield?utm_source=safepaste-ai-privacy-shield" target="_blank">
     <img src="https://img.shields.io/badge/Featured%20on-NextGen%20Tools-black?style=for-the-badge&logo=ai" alt="Featured on NextGen Tools"/>
@@ -17,18 +17,27 @@
 
 ---
 
+### 🎁 Limited Time Offer
+> **Use code:** `PHFREE`
+> **Get 1 Month of Pro for FREE** (Limited to the first 100 people)
+> *⏳ Offer valid until February 28, 2026*
+
+---
+
 ## 🚀 Overview
 
-**SafePaste AI** is the ultimate privacy shield for developers and professionals who use AI tools like ChatGPT, Claude, and Gemini. It automatically detects and masks sensitive data—such as **API Keys, Passwords, PII, and Crypto Seed Phrases**—before they leave your browser.
+**SafePaste AI** is the ultimate privacy shield for developers and professionals who use AI tools like **ChatGPT, Claude, Gemini, DeepSeek, Perplexity, and GitHub Copilot**. It automatically detects and masks sensitive data—such as **API Keys, Passwords, PII, and Crypto Seed Phrases**—before they leave your browser.
 
 > **Privacy by Design:** All processing happens **100% locally** on your device using Web Workers. Your data is never sent to our servers.
 
 ## ✨ New in v2.1.0: The Secure Workspace
 
-We've evolved from a simple text masker to a full **Secure Workspace**:
-- **📂 File Sanitization:** Drag & drop `.env`, `.json`, `.js`, `.py`, or logs to clean them instantly.
-- **⚡ Pro Productivity:** New keyboard shortcuts (`Alt+Shift+S`) to toggle the workspace.
-- **🔓 Unlocked Power:** **Passwords & API Keys** (AWS, Stripe, OpenAI) are now **FREE for everyone!**
+We've evolved from a simple text masker to a full **Secure Workspace**. You can now drag and drop sensitive files to sanitize them before sharing with AI.
+
+**Supported File Types:**
+- **Config & Secrets:** `.env`, `.json`, `.toml`, `.yaml`, `.xml`, `.ini`, `.config`
+- **Code:** `.js`, `.ts`, `.py`, `.php`, `.java`, `.go`, `.rb`, `.cs`
+- **Logs & Data:** `.log`, `.csv`, `.sql`, `.md`, `.txt`
 
 ---
 
@@ -49,10 +58,37 @@ We've evolved from a simple text masker to a full **Secure Workspace**:
 
 ---
 
+## 🗺️ Roadmap
+
+We are building for the AI era. Here is what we are working on:
+- [x] **Dev & Infrastructure Masking:** Surgical precision for API Keys and Tokens.
+- [x] **Secure Workspace:** Drag & drop file sanitization.
+- [ ] **Custom Watchlist:** Define custom keywords to hide/show (In Progress).
+- [ ] **Intelligent File Privacy:** Enhanced support for PDF and Docx.
+
+---
+
+## 📜 Privacy & Terms
+
+**Last Updated:** February 16, 2026
+
+**1. Data Collection & Usage**
+- **Locally Processed:** All redaction occurs entirely on your device using Web Workers. We do not transmit any pasted text or uploaded files to our servers.
+- **Zero-Analytics:** We do not use tracking scripts or cookies to monitor your browsing activity.
+
+**2. Permissions Justification**
+- **Storage:** Used only to save local preferences.
+- **Host Permissions:** Required to inject the protection layer into supported AI sites.
+
+**3. Disclaimer**
+SafePaste AI is a security tool designed to assist in data redaction. While we use advanced patterns, **the user is responsible for the final review** of any data submitted to third-party platforms.
+
+---
+
 ## 🛠️ Installation
 
 1. **Download from Chrome Web Store:**
-   [👉 Click here to Install SafePaste AI](https://chrome.google.com/webstore/detail/safepaste-ai-privacy-sh/jbolfgndggfhhpbnkgnpchjmnfnkgobc)
+   [👉 Click here to Install SafePaste AI](https://chromewebstore.google.com/detail/mmgbmmgmiofmnmplfhlojelhceibepjp?utm_source=item-share-cb)
 
 2. **Pin the Extension:**
    Click the puzzle icon 🧩 in Chrome and pin **SafePaste AI** for easy access.
@@ -70,20 +106,11 @@ Maximize your productivity with these native shortcuts:
 
 ---
 
-## 🔒 Security Architecture
-
-We take your privacy seriously. Here is how SafePaste AI works under the hood:
-
-1. **Zero-Knowledge Architecture:** We do not collect, store, or transmit your pasted content.
-2. **Web Workers:** Heavy regex processing runs in a background thread to ensure zero UI lag.
-3. **Smart Redaction:** We replace secrets with context-aware labels (e.g., `[HIDDEN-API-KEY]`, `[HIDDEN-CREDIT-CARD]`) so the AI still understands the *structure* of your code/prompt without seeing the *secret*.
-
----
-
 ## 💬 Support
 
 Found a bug or have a feature request?
-- **Email:** support@safepaste.ai - **Issues:** Feel free to open an issue in this repository.
+- **Email:** ittikorn.longtee@gmail.com
+- **Issues:** Feel free to open an issue in this repository.
 
 ---
 
