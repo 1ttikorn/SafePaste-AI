@@ -63,7 +63,7 @@ We've evolved from a simple text masker to a full **Secure Workspace**. You can 
 We are building for the AI era. Here is what we are working on:
 - [x] **Dev & Infrastructure Masking:** Surgical precision for API Keys and Tokens.
 - [x] **Secure Workspace:** Drag & drop file sanitization.
-- [ ] **Custom Watchlist:** Define custom keywords to hide/show (In Progress).
+- [x] **Custom Watchlist:** Define custom keywords to hide/show.
 - [ ] **Intelligent File Privacy:** Enhanced support for PDF and Docx.
 
 ---
